@@ -1,6 +1,6 @@
 Minecraft Procedural Generation project
 
--Group class project using data structures and algorithms in C++ to procedurally
+- Group class project using data structures and algorithms in C++ to procedurally
 create a village in Minecraft through the use of a locally hosted Java server.
 - Use of modular code design pattern in development of the project, separating
 complex procedural logic according to function and maintainability.
